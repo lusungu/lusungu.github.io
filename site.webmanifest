@@ -1,0 +1,16 @@
+{
+    "name": "Lusungu E. Chihana",
+    "short_name": "L. Chihana",
+    "description": "Senior Technology Leader specializing in Java, Spring Boot, Enterprise Systems, and Digital Transformation",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0c1214",
+    "theme_color": "#0f766e",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}

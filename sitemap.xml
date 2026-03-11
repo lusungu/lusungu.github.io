@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://lusungu.github.io/</loc>
         <lastmod>2026-03-11</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://lusungu.github.io/images/og-image.png</image:loc>
+            <image:title>Lusungu E. Chihana - Java, Spring, Enterprise Systems</image:title>
+            <image:caption>Professional portfolio of Lusungu E. Chihana, Technology Leader in Zambia</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://lusungu.github.io/images/lchihana.jpeg</image:loc>
+            <image:title>Lusungu E. Chihana</image:title>
+            <image:caption>Lusungu E. Chihana - Senior Technology Leader</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://lusungu.github.io/images/vib-placeholder.png</image:loc>
+            <image:title>Village Banking System</image:title>
+            <image:caption>Digital platform for community savings groups in Zambia</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://lusungu.github.io/images/yali-placeholder.jpeg</image:loc>
+            <image:title>YALI RLC Southern Africa 2024</image:title>
+            <image:caption>Lusungu Chihana - Best Pitch Award Winner at YALI 2024</image:caption>
+        </image:image>
     </url>
 </urlset>

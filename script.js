@@ -265,6 +265,9 @@ backToTop.addEventListener('click', () => {
     });
 });
 
+// Dynamic footer year
+document.getElementById('year').textContent = new Date().getFullYear();
+
 // Console Easter egg
 console.log('%cHey there, curious developer!', 'font-size: 20px; font-weight: bold;');
 console.log('%cLusungu E. Chihana - Innovation & Systems Leader', 'font-size: 14px; color: #0f766e;');
